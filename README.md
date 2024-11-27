@@ -1,8 +1,8 @@
 # Sortable Repeater
 
+A module to enable users to manually sort repeater items
 
 
-Video / screenshot
 
 # Version
 Initial 1.0
@@ -137,7 +137,7 @@ function callCallback(){
 
 ![](images/RepeaterLabels.png)
 
-5. Assign a *Repeater.ListItem* property to the *Label* text property
+5. Assign a *Repeater.ListItem* property to each *Label* text property
 
 ![](images/LabelListItem.png)
 
