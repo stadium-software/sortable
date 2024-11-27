@@ -2,7 +2,7 @@
 
 A module to enable users to manually sort repeater items
 
-
+https://github.com/user-attachments/assets/d9d8a116-3fb8-4f9f-ba61-6a537525dd5c
 
 # Version
 Initial 1.0
