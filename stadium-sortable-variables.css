@@ -1,0 +1,12 @@
+/*Stadium CSS v1.0 https://github.com/stadium-software/sortable */
+:root {
+    --stadium-sortable-container-width: auto;
+    --stadium-sortable-item-hover-background-color: #f9f9f9;
+    --stadium-sortable-dragged-item-background-color: #ccc;
+    --stadium-sortable-updown-button-background-color: #ddd;
+    --stadium-sortable-updown-button-border-color: #ddd;
+    --stadium-sortable-updown-button-icon-size: 20px;
+    --stadium-sortable-updown-button-size: 26px;
+    --stadium-sortable-updown-button-border-radius: 4px;
+    --stadium-sortable-updown-button-location: right; /* right, left */
+}
