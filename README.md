@@ -155,6 +155,8 @@ function callCallback(){
    2. ContainerClass: Add the classname you assigned to the *Container* control above (e.g. sortable-items)
    3. ShowButtons (optional): Add "true" to show up and down buttons to each repater row
 
+![](images/Page.LoadEvent.png)
+
 ## CSS
 The CSS below is required for the correct functioning of the module. Some elements can be [customised](#customising-css) using a variables CSS file. 
 
