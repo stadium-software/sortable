@@ -143,8 +143,8 @@ function callCallback(){
 
 ## Page Script
 1. Create a script under the page (call it "GetOrder")
-2. Add an input parameter to the script called "Data"
-3. Drag a *Notification* into the script and assign the "Data" input paremeter to the *Notification Message* property
+2. Add an input parameter to the script called "Data". The script will return the sorted data to this parameter.
+3. To see the returned data, drag a *Notification* into the script and assign the "Data" input paremeter to the *Notification Message* property
 
 ![](images/NotificationMessage.png)
 
